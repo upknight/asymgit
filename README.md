@@ -1,2 +1,2 @@
 # Asymptote Software
-+ Learning Manual for <hhh>[http://asymptote.sourceforge.net/]
++ Learning Manual for [uuu]<http://asymptote.sourceforge.net/>
